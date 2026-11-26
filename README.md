@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:8E75B2,100:3FB950&height=200&section=header&text=Yitz&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=D-pad%20voice%20assistants%20%E2%80%A2%20Android%20tools&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:8E75B2,100:3FB950&height=200&section=header&text=Yitz&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=D-pad%20voice%20assistants%20%E2%80%A2%20TCL%20Flip%202%20tools%20%E2%80%A2%20Kotlin%20%26%20Python&descAlignY=60&descSize=16" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=900&color=3FB950&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Yitz;Building+Kaylo+%E2%80%94+a+voice+assistant+FOR+the+D-pad;Press+to+talk%2C+steer+with+directions;Gemini+API+does+the+listening+%26+reasoning" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=3FB950&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Yitz;Creator+of+Kaylo+%E2%80%94+the+D-pad+voice+assistant;Building+lightweight+Kotlin+APKs+%26+Python+tools;No+touchscreen.+No+bloat.+Just+keystrokes." alt="typing" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Yitz890&label=Profile%20views&color=3FB950&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/Yitz890?label=Followers&style=for-the-badge&color=8E75B2" alt="followers" />
-<img src="https://img.shields.io/badge/Current%20build-Kaylo-3FB950?style=for-the-badge&logo=googlegemini&logoColor=white" alt="focus" />
+<img src="https://img.shields.io/badge/Latest%20Release-Kaylo-3FB950?style=for-the-badge&logo=googlegemini&logoColor=white" alt="focus" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -18,52 +18,54 @@
 
 <div align="center">
 
-### 🎙️ Now building: Kaylo
+### 🎙️ Flagship Release: [Kaylo](https://github.com/Yitz890/Kaylo)
 
-**A voice assistant built for the D-pad.** Not "compatible with" a remote — *built for it.*
+**A voice assistant built from the ground up for D-pad devices like the TCL Flip 2.**  
+Not merely "compatible" with a keypad — *engineered specifically for it.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=8E75B2&center=true&vCenter=true&width=720&lines=Press+to+talk+%E2%9F%B6+steer+with+directions;Confirm+with+OK+%E2%9F%B6+cancel+with+Back;No+touchscreen.+No+mouse.+No+keyboard.;Gemini+API+listens+and+reasons." alt="kaylo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=8E75B2&center=true&vCenter=true&width=720&lines=Press+to+talk+%E2%9F%B6+steer+with+directions;Confirm+with+OK+%E2%9F%B6+cancel+with+Back;No+touchscreen.+No+mouse.+No+keyboard.;Powered+by+the+Gemini+API." alt="kaylo" />
 
 <p>
 <img src="https://img.shields.io/badge/D--pad--first-3FB950?style=for-the-badge&logo=gamepad&logoColor=black" alt="dpad" />
-<img src="https://img.shields.io/badge/Voice--first-8E75B2?style=for-the-badge&logo=googleassistant&logoColor=white" alt="voice" />
+<img src="https://img.shields.io/badge/TCL%20Flip%202-0078D6?style=for-the-badge&logo=android&logoColor=white" alt="flip2" />
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini" />
-<img src="https://img.shields.io/badge/Status-Alpha-3FB950?style=for-the-badge" alt="alpha" />
+<img src="https://img.shields.io/badge/Status-Live-3FB950?style=for-the-badge" alt="live" />
 </p>
 
-> 🚧 In progress — repo coming soon.
+<a href="https://github.com/Yitz890/Kaylo">
+  <img src="https://img.shields.io/badge/Check_out_Kaylo-%E2%86%92-3FB950?style=for-the-badge&logo=github&logoColor=black" alt="Kaylo Repo" />
+</a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-### 👋 About
+### 👋 About Me
 
-I like small tools that fix **one annoying thing well**. Most of what's here lives where Android
-meets the places people actually talk — GroupMe groups, classroom laptops, and the occasional
-bootloader.
+I build lightweight, focused tools that solve **one problem well** without unnecessary bloat. Most of my work lives where stripped-down Android hardware meets practical daily utilities — from keypad-driven flip phone apps to classroom lockdown scripts and chat automation.
 
-- 🔭 Currently building **Kaylo** — a voice assistant **built for the D-pad**, on the Gemini API
-- 🎮 Also on the bench: **D-Pad-Games**, a plugin-driven D-pad game collection
-- 🌱 Learning **Kotlin** and **MediaTek (MTK) firmware flashing**
-- 🛠️ Comfortable in **JavaScript**, shell, and Windows batch
-- 🎯 Goal: tools that are simple to run and hard to break
+- 🚀 **Just shipped [Kaylo](https://github.com/Yitz890/Kaylo)** — a voice assistant built for D-pad navigation, powered by the Gemini API
+- 📱 **TCL Flip 2 & AOSP:** Crafting lightweight **Kotlin APKs** and **D-pad-first** interfaces for non-touchscreen Android devices
+- 🐍 **Automation & Tooling:** Writing fast **Python**, **JavaScript**, **Shell**, and **Batch** utilities
+- 🔧 **Under the hood:** Exploring **MediaTek (MTK) firmware flashing** and low-level Android tinkering
+- 🎯 **Philosophy:** Software should be simple to run, responsive on minimal hardware, and hard to break
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-### 🚀 Featured projects
+### 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Windows-Whitelist-Web-Filter](https://github.com/Yitz890/Windows-Whitelist-Web-Filter)** | Allow-list web filter for student machines — only approved sites open | Batchfile · MIT |
-| **[Blaze](https://github.com/Yitz890/Blaze)** | A better alternative to Gort for GroupMe | JavaScript |
-| **[D-Pad-Games](https://github.com/Yitz890/D-Pad-Games)** | D-pad games with a plugin system | MIT |
-| **[Get-Tzibbur-Token](https://github.com/Yitz890/Get-Tzibbur-Token)** | One-command helper to grab your tzibbur.me access token | Shell |
+| **[Kaylo](https://github.com/Yitz890/Kaylo)** | Voice assistant built natively for D-pad devices (TCL Flip 2) using Gemini | Kotlin · Android · Gemini API |
+| **[D-Pad-Games](https://github.com/Yitz890/D-Pad-Games)** | Modular collection of D-pad games featuring a custom plugin system | Kotlin / Android · MIT |
+| **[Windows-Whitelist-Web-Filter](https://github.com/Yitz890/Windows-Whitelist-Web-Filter)** | Strict allow-list web filter for classroom/student PCs — only approved sites open | Batchfile · MIT |
+| **[Blaze](https://github.com/Yitz890/Blaze)** | A faster, cleaner alternative to Gort for GroupMe group management | JavaScript |
+| **[Get-Tzibbur-Token](https://github.com/Yitz890/Get-Tzibbur-Token)** | One-command CLI helper to fetch your `tzibbur.me` access token | Shell / Python |
 
-### 🧪 Also in the lab
+### 🧪 Also in the Lab
 
-- **[Name_GroupMe_Bot](https://github.com/Yitz890/Name_GroupMe_Bot)** — GroupMe bot experiments
-- **[Scam-GroupMe](https://github.com/Yitz890/Scam-GroupMe)** — group-behavior sandbox
+- **[Name_GroupMe_Bot](https://github.com/Yitz890/Name_GroupMe_Bot)** — Automated GroupMe bot experiments
+- **[Scam-GroupMe](https://github.com/Yitz890/Scam-GroupMe)** — Group chat behavior & moderation sandbox
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
@@ -71,9 +73,10 @@ bootloader.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -91,7 +94,7 @@ bootloader.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -112,7 +115,7 @@ bootloader.
 
 </div>
 
-### 🐍 Contribution snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -126,27 +129,21 @@ bootloader.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-### 💬 Quote of the day
+### 💬 Quote & Dev Humor
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
-
-</div>
-
-### 😄 Dev joke
-
-<div align="center">
-
+<br/>
 <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="joke" />
 
 </div>
 
-### 📬 Reach me
+### 📬 Reach Me
 
 <div align="center">
 
-Open an issue on any repo — that's the fastest route.
+Have a question, bug report, or idea? **Open an issue on any repo** — that's the fastest way to reach me.
 
 <a href="https://github.com/Yitz890"><img src="https://img.shields.io/badge/GitHub-Yitz890-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
